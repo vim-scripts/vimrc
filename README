@@ -1,0 +1,6 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2710
+
+Better than cream + menu for console version.
+CTRL+M makes a console menu pop up.
+Works for GVim and Vim
+Can toggle between Word Processor Mode (word wrap/spell)
